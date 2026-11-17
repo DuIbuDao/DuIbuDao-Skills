@@ -13,3 +13,4 @@ TikTok Shop US operations skills (methodologies, workflows, lessons learned)
 | [product-image-render-qa](skills/product-image-render-qa/SKILL.md) | 用官方产品图（如 Amazon 详情图）生成 TikTok Shop 主图/详情图渲染图，或审核这类 AI 渲染图时使用。 | 2026-11-13 |
 | [variant-listing-grouping](skills/variant-listing-grouping/SKILL.md) | 在 TikTok Shop 等平台上新链接时，需要把同一产品的不同尺寸/颜色 SKU 归组到一条综合链接（多变体）里，并先出上架草稿给老板确认时使用。 | 2026-11-13 |
 | [store-health-diagnosis](skills/store-health-diagnosis/SKILL.md) | 老板要一份电商店铺（如 TikTok Shop）全店诊断时使用：现价对比亚马逊价是否合理、折后回款、滞销归因、断货是否补货；全程只读导出、按多周期分析、抽查对账。 | 2026-11-15 |
+| [tts-weekly-data-report](skills/tts-weekly-data-report/SKILL.md) | 每周给 TikTok Shop 店铺出数据周报（商品/SKU/视频/达人/售后差评）并分发给各岗位时使用；含美西时区截止时间、Seller Center 导出的坑、缺数和环比口径。 | 2026-11-17 |
