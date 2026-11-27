@@ -16,6 +16,6 @@ TikTok Shop US operations skills (methodologies, workflows, lessons learned)
 | [variant-listing-grouping](skills/variant-listing-grouping/SKILL.md) | 在 TikTok Shop 等平台上新链接时，需要把同一产品的不同尺寸/颜色 SKU 归组到一条综合链接（多变体）里，并先出上架草稿给老板确认时使用。 | 2026-11-13 |
 | [store-health-diagnosis](skills/store-health-diagnosis/SKILL.md) | 老板要一份电商店铺（如 TikTok Shop）全店诊断时使用：现价对比亚马逊价是否合理、折后回款、滞销归因、断货是否补货；全程只读导出、按多周期分析、抽查对账。 | 2026-11-15 |
 | [symphony-shoppable-video](skills/symphony-shoppable-video/SKILL.md) | 在 TikTok Symphony（如 Seedance）里用 AI 做电商带货短视频：写提示词、做对照试验、处理安全审核失败、使用内置数字人，以及审片和向老板交片复盘时使用。 | 2026-11-26 |
-| [tts-promo-pricing](skills/tts-promo-pricing/SKILL.md) | 为跟亚马逊价对齐的 TikTok Shop 设定或审核闪购价、叠加优惠时使用；含划线价公式、同时只能开一条闪购、保留粉丝券/满减/满件折、成交价与亚马逊的关系，以及 FBT 滞销清仓例外。 | 2026-11-27 |
+| [tts-promo-pricing](skills/tts-promo-pricing/SKILL.md) | 为跟亚马逊价对齐的 TikTok Shop 设定或审核闪购价、叠加优惠时使用；含划线价公式、同时只能开一条闪购、商家券每单一张、建议闪购价先按店铺券反推（先不算粉丝券）、保留粉丝券/满减/满件折、成交价与亚马逊的关系，以及 FBT 滞销清仓例外。 | 2026-11-28 |
 | [tts-weekly-data-report](skills/tts-weekly-data-report/SKILL.md) | 每周给 TikTok Shop 店铺出数据周报（商品/SKU/视频/达人/售后差评）并分发给各岗位时使用；含美西时区截止时间、Seller Center 导出的坑、缺数和环比口径。 | 2026-11-24 |
 | [weekly-amazon-price-check](skills/weekly-amazon-price-check/SKILL.md) | 每周对照亚马逊 US 现价，给跟它对齐的店铺出调价、建议上架、建议删除清单时使用；含定价公式、查价方式、数据源冲突和环比口径。 | 2026-11-27 |
